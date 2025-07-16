@@ -1,5 +1,7 @@
 # 🔔 Telegram Notifications for Jupyter Notebooks
 
+_A detailed blog post explaining how to set up and use a Telegram bot can be read here: https://sola.kau.se/deprimap/2025/07/16/telegram-bot/_
+
 This repository shows you how to receive **Telegram messages** when your Jupyter Notebook finishes running a cell or task.
 
 No more constantly checking your screen — get notified instantly, whether you're training a model, processing geospatial data, or running a long Earth Engine export.
